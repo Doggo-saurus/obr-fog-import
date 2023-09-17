@@ -26,3 +26,6 @@ DPI can be adjusted when importing for use with Dungeon Achemist and other tools
 
 Imported lines work with both the Smoke! and original Dynamic Fog extension.
 
+** Support **
+
+If you have questions, please join the [Owlbear Rodeo Discord](https://discord.gg/UY8AXjhzhe).
