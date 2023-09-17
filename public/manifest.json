@@ -1,12 +1,14 @@
 {
   "name": "Dynamic Fog Importer",
   "description": "Import dynamic fog from Foundry / Dungeon Alchemist json",
-  "version": "1.0.1",
+  "author": "Doggosaurus",
+  "version": "1.0.2",
   "manifest_version": 1,
+  "icon": "https://raw.githubusercontent.com/Doggo-saurus/obr-fog-import/main/public/logo.png",
   "action": {
     "title": "Dynamic Fog Importer",
-    "icon": "https://dhci4tz6c3f07.cloudfront.net/obr-fog-import/icon.svg",
-    "popover": "/obr-fog-import/",
+    "icon": "https://raw.githubusercontent.com/Doggo-saurus/obr-fog-import/main/public/icon.svg",
+    "popover": "/",
     "height": 600,
     "width": 400
   }
