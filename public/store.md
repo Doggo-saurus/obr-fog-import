@@ -5,7 +5,7 @@ author: Doggosaurus
 image: https://raw.githubusercontent.com/Doggo-saurus/obr-fog-import/main/public/icon.svg 
 icon: https://raw.githubusercontent.com/Doggo-saurus/obr-fog-import/main/public/logo.png
 tags:
-  - dynamic fog
+  - fog
 manifest: https://fog-import.onrender.com/manifest.json
 learn-more: https://owlbear.rodeo
 ---
