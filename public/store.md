@@ -2,7 +2,7 @@
 title: Dynamic Fog Importer
 description: Import dynamic fog for Foundry / Dungeon alchemist
 author: Doggosaurus
-image: https://raw.githubusercontent.com/Doggo-saurus/obr-fog-import/main/public/icon.svg 
+image: https://raw.githubusercontent.com/Doggo-saurus/obr-fog-import/main/public/image.png
 icon: https://raw.githubusercontent.com/Doggo-saurus/obr-fog-import/main/public/logo.png
 tags:
   - fog
